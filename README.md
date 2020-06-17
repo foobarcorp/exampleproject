@@ -1,2 +1,4 @@
 # exampleproject
-green eggs and ham
+Current project: green eggs and ham
+
+Any other ideas for good dishes, guys?

@@ -1,2 +1,2 @@
 # exampleproject
-eggs and spam
+green eggs and ham
